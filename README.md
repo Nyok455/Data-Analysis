@@ -36,7 +36,7 @@ Contributions to this project are highly encouraged! If you have suggestions for
 This project is licensed under the MIT License. For further details, please refer to the LICENSE file included in this repository.
 ## Contact Information
 For inquiries, feedback, or further discussion regarding this project, please feel free to reach out:
-- **Your Name**: Nyok455
+- **Your Name**: Nyok Wuor
 - **Email**: nyokwuormiyar@gmail.com
 - **GitHub Profile**: Nyok455(https://github.com/Nyok455)
 ---
