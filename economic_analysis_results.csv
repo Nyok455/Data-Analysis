@@ -1,0 +1,10 @@
+Scenario,NPV_Million_USD,IRR_Percent,Payback_Period_Years
+Price_Low_Cost_Low,341.8741940222329,,0.0
+Price_Low_Cost_Base,341.83803581652563,,0.0
+Price_Low_Cost_High,341.8018776108184,,0.0
+Price_Base_Cost_Low,550.0375575418399,,0.0
+Price_Base_Cost_Base,550.0013993361327,,0.0
+Price_Base_Cost_High,549.9652411304255,,0.0
+Price_High_Cost_Low,758.2009210614472,,0.0
+Price_High_Cost_Base,758.1647628557399,,0.0
+Price_High_Cost_High,758.1286046500327,,0.0
