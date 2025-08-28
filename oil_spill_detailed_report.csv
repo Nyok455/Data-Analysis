@@ -1,0 +1,11 @@
+Metric,Value
+Total Large Spills (1970-2022),470
+Total Medium Spills (1970-2022),1391
+Combined Total Spills,1861
+Total Economic Impact (Million USD),30455
+Average Annual Spills (1970-1974),63.8
+Average Annual Spills (2018-2022),5.4
+Percentage Reduction,91.54%
+Trend Slope (spills/year),-1.5932
+Trend Statistical Significance (p-value),0.0000
+High-Risk Years (above mean + 1 std),"1972, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1983"
